@@ -13,9 +13,9 @@ The documentation to our iOS SDK is available [here](https://www.gokwik.co/docs/
 
 3. **COD**: This feature provides the Cash on Delivery option to users, powered by GoKwik
 
-## Usage
-
-To run the example project, clone the repo, and run "pod install" from the Example directory first.
+<!--## Usage-->
+<!---->
+<!--To run the example project, clone the repo, and run 'pod install' from the Example directory first.-->
 
 ## Support
 
