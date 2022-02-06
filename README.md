@@ -13,10 +13,6 @@ The documentation to our iOS SDK is available [here](https://www.gokwik.co/docs/
 
 3. **COD**: This feature provides the Cash on Delivery option to users, powered by GoKwik
 
-<!--## Usage-->
-<!---->
-<!--To run the example project, clone the repo, and run 'pod install' from the Example directory first.-->
-
 ## Support
 
 GoKwik is an eCommerce enablement brand. GoKwik increases profitability for your ecommerce or D2C business by increasing conversions, reducing acquisition costs and increasing delivery rates across the entire shopping funnel. For more queries contact us at https://www.gokwik.co/contact.
