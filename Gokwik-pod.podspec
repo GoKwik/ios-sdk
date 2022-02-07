@@ -1,6 +1,7 @@
 Pod::Spec.new do |s|
 
-  s.name         = "Gokwik-Pod"
+
+  s.name         = "Gokwik-pod"
   s.version      = "0.1.1"
   s.summary      = "CocoaPod implementation of GoKwik’s Payment SDK for iOS"
   s.swift_version = '5.0'
@@ -24,10 +25,12 @@ Pod::Spec.new do |s|
   s.author             = { "Vivek Bajpay" => "support@gokwik.co" }
   s.platform     = :ios, "10.0"
 
+ 
   s.source       = { :git => "https://github.com/GoKwik/ios-sdk.git", :tag => s.version.to_s }
   s.vendored_frameworks = 'Pod/GokwikUpi.xcframework'
-  s.source_files  = "GokwikUpi/**/*"
+  # s.source_files  = "Pod/**/*"
   s.exclude_files = "Classes/Exclude"
-
+  # s.pod_target_xcconfig = { 'EXCLUDED_ARCHS' => 'arm64' }
+  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS' => 'i386' }
 
 end
