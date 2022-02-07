@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ewHcraKVW5Jw6oc45yGHxGNiQ7E=
+		zVLfhz8SsaZvWRvrBN+D0mhsEqI=
 		</data>
 		<key>CustomeCheckout.nib</key>
 		<data>
@@ -56,25 +56,17 @@
 		<data>
 		N/KnsDasVBARyxdcUZcFaugU2Y8=
 		</data>
-		<key>Modules/GokwikUpi.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		isQhVEOcYvotU+Yf5J3K1dA5xLo=
-		</data>
-		<key>Modules/GokwikUpi.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		isQhVEOcYvotU+Yf5J3K1dA5xLo=
-		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
 		ibxjLJpf/58VM0aFFpGtU3ya/+Y=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		aiI+YyE130XVy+xyVEAv8QtqPfI=
+		WXo1oG5pei3nvQTiwkfYPz10TcA=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		GK5urFakjFLv1z6sEfQS0BtzLbQ=
+		DUE8XXgetd/0euWdonK1VGe+nEQ=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -82,11 +74,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		aiI+YyE130XVy+xyVEAv8QtqPfI=
+		WXo1oG5pei3nvQTiwkfYPz10TcA=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		GK5urFakjFLv1z6sEfQS0BtzLbQ=
+		DUE8XXgetd/0euWdonK1VGe+nEQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qWE1TRLrbJCQcQdRy/cxVOZHXf49J4+zf7Kn78Ciy+E=
+			AkfacFu50Hk0MXiTFPG8vTFX8kKbjfqbVxA7U6Jbw7g=
 			</data>
 		</dict>
 		<key>CustomeCheckout.nib</key>
@@ -187,20 +179,6 @@
 			g+YoJkl0uar2cHdXC8kVKDoDw3Iq1ptID2RfpJYT8Ts=
 			</data>
 		</dict>
-		<key>Modules/GokwikUpi.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ii34EYaqdECfeM0AAXHLJWv6utfn3TkS628BjHPVAY4=
-			</data>
-		</dict>
-		<key>Modules/GokwikUpi.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ii34EYaqdECfeM0AAXHLJWv6utfn3TkS628BjHPVAY4=
-			</data>
-		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
@@ -212,14 +190,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QzO+VLBV39yO8BPyYWDWawKYZKY+WhdixcB0E6PPiMA=
+			dAx0yLQdB0emzUHAMjSZ5SIkXs5iOsMymiAukWrhUIk=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ejNSmPa3W53diA5WIrILxqaLF6sfdSoZdxC+cttufdQ=
+			mDZ5qUtw/6mXwypjw5Puf7908pc6OU0pHSWz5N1sECw=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
@@ -233,14 +211,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QzO+VLBV39yO8BPyYWDWawKYZKY+WhdixcB0E6PPiMA=
+			dAx0yLQdB0emzUHAMjSZ5SIkXs5iOsMymiAukWrhUIk=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ejNSmPa3W53diA5WIrILxqaLF6sfdSoZdxC+cttufdQ=
+			mDZ5qUtw/6mXwypjw5Puf7908pc6OU0pHSWz5N1sECw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
