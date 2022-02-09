@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Gokwik-pod"
-  spec.version      = "0.1.1"
+  spec.version      = "0.1.2"
   spec.summary      = "CocoaPod implementation of GoKwik’s Payment SDK for iOS"
   spec.swift_version = '5.0'
   spec.description  = <<-DESC
@@ -29,7 +29,7 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = 'Pod/GokwikUpi.xcframework'
   # spec.source_files  = "Pod/GokwikUpi.xcframework/ios-arm64/GokwikUpi.framework/**/*.{swift}"
   spec.exclude_files = "Classes/Exclude"
-  spec.dependency 'Alamofire', '5.0.0'
+  # spec.dependency 'Alamofire', '5.0.0'
 
 
 end
