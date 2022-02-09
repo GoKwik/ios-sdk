@@ -24,6 +24,7 @@ Pod::Spec.new do |s|
 
   s.author             = { "Vivek Bajpay" => "support@gokwik.co" }
   s.platform     = :ios, "10.0"
+  s.ios.deployment_target = "11.0"
 
  
   s.source       = { :git => "https://github.com/GoKwik/ios-sdk.git", :tag => s.version.to_s }
