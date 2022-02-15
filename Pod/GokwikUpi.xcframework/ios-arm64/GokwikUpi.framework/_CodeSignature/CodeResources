@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/GokwikUpi.h</key>
 		<data>
-		KUkxlO3XQV8HPcwwzJZlHRguF1k=
+		Z++dETsoQ+LuqwNYWxjKYJS+SAU=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		DUE8XXgetd/0euWdonK1VGe+nEQ=
+		fFx0xq5ACPYomVzM/dbLdq9dQ18=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		DUE8XXgetd/0euWdonK1VGe+nEQ=
+		fFx0xq5ACPYomVzM/dbLdq9dQ18=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -127,7 +127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wFZsYWjCmnrDxK3dZTQM73SlySAP13B2zX2in0dt6EI=
+			TXKiVy4iSqm5RZLSpFtlygTjIYWo1NhkFXUbMmYZBvE=
 			</data>
 		</dict>
 		<key>Metropolis-Black.otf</key>
@@ -197,7 +197,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mDZ5qUtw/6mXwypjw5Puf7908pc6OU0pHSWz5N1sECw=
+			crzjsw9Du0iZypFeMJYfJQV+N9pEylRbSev9v2ohkqE=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
@@ -218,7 +218,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mDZ5qUtw/6mXwypjw5Puf7908pc6OU0pHSWz5N1sECw=
+			crzjsw9Du0iZypFeMJYfJQV+N9pEylRbSev9v2ohkqE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "Gokwik-pod"
-  spec.version      = "0.1.2"
+  spec.version      = "0.1.4"
   spec.summary      = "CocoaPod implementation of GoKwik’s Payment SDK for iOS"
   spec.swift_version = '5.0'
   spec.description  = <<-DESC
