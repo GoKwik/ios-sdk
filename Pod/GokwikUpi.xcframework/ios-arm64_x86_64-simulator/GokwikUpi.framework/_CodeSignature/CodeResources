@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		zVLfhz8SsaZvWRvrBN+D0mhsEqI=
+		ewHcraKVW5Jw6oc45yGHxGNiQ7E=
 		</data>
 		<key>CustomeCheckout.nib</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WufiJVN1xCjMNOdlozuhYGYI9DI=
+		AHe2bzBb8UESJsjxZRDClqbj9tw=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		WufiJVN1xCjMNOdlozuhYGYI9DI=
+		AHe2bzBb8UESJsjxZRDClqbj9tw=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BX25BlNQsWP2lLIxb6x36lHx+1Y=
+		VJg4wLaSLrw7kYreUbzcYpOLt+Y=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		BX25BlNQsWP2lLIxb6x36lHx+1Y=
+		VJg4wLaSLrw7kYreUbzcYpOLt+Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AkfacFu50Hk0MXiTFPG8vTFX8kKbjfqbVxA7U6Jbw7g=
+			qWE1TRLrbJCQcQdRy/cxVOZHXf49J4+zf7Kn78Ciy+E=
 			</data>
 		</dict>
 		<key>CustomeCheckout.nib</key>
@@ -221,7 +221,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C8xNiowABJmGFllf/qrzUo77GlkUn1lBBjAi1etiP1s=
+			N7YOnmcHu2PHPVpPW8pWBaEW5/yomPFSRads3b2K63E=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
@@ -242,7 +242,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C8xNiowABJmGFllf/qrzUo77GlkUn1lBBjAi1etiP1s=
+			N7YOnmcHu2PHPVpPW8pWBaEW5/yomPFSRads3b2K63E=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -263,7 +263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3YU6GZO5oZDmrZ+8w0na/dHW8cpByc7CctG9yfeQXmE=
+			T5qsJhPzExOzuPyYgak7mAgTfoNnCum5+n+WijmYod0=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftdoc</key>
@@ -284,7 +284,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3YU6GZO5oZDmrZ+8w0na/dHW8cpByc7CctG9yfeQXmE=
+			T5qsJhPzExOzuPyYgak7mAgTfoNnCum5+n+WijmYod0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
