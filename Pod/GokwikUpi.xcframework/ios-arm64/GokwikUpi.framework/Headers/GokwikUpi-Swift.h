@@ -243,10 +243,8 @@ SWIFT_CLASS("_TtC9GokwikUpi14GokwikCheckout")
 
 
 
-
 SWIFT_CLASS("_TtC9GokwikUpi25UpiCheckoutViewController")
 @interface UpiCheckoutViewController : UIViewController
-- (void)viewDidAppear:(BOOL)animated;
 - (void)viewDidLoad;
 - (void)viewWillDisappear:(BOOL)animated;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;

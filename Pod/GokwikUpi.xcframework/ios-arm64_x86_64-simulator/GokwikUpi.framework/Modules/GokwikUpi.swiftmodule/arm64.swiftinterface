@@ -29,7 +29,6 @@ extension GokwikUpi.GokwikCheckout : GokwikUpi.CheckoutStatusDelegate {
 }
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class UpiCheckoutViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) public var checkoutStatusDelegate: GokwikUpi.CheckoutStatusDelegate?
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillDisappear(_ animated: Swift.Bool)
   @_Concurrency.MainActor(unsafe) public init(createData: [Swift.String : Any], production: Swift.Bool)

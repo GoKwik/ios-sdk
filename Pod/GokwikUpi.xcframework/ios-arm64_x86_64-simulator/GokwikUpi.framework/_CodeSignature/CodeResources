@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/GokwikUpi-Swift.h</key>
 		<data>
-		m5KCx1zXrbNgm8JUgGFODHitU9o=
+		gwCryuhaYyRUKILwoB1JZ0p3pSA=
 		</data>
 		<key>Headers/GokwikUpi.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZsSZyGoS3ujHFo9qWZ1lzBDHCp8=
+		yssqGMwoWaHwlhyOxq6qkcFE8o0=
 		</data>
 		<key>Metropolis-Black.otf</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		A4y4P9tflu/SAWrJMOdiCHg4DI8=
+		IPqI3iKLCmqdWwQt1pcJhx83yXo=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		f8lA+d+yi/O0SHOo82dORWUatYM=
+		dpQTdh6OuhypGt7zCzPkszdOSmw=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		A4y4P9tflu/SAWrJMOdiCHg4DI8=
+		IPqI3iKLCmqdWwQt1pcJhx83yXo=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		f8lA+d+yi/O0SHOo82dORWUatYM=
+		dpQTdh6OuhypGt7zCzPkszdOSmw=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		LTtOefmBvtcwellCtrmkaktTKmY=
+		SLdm7lFn0fPNKsXAMlRPAO4MHW0=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		pei9Rx0gfxsIKlh39ay3PVfGM/Y=
+		x4PPBWQnlmC+U/37UpKJVL8YmGE=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		LTtOefmBvtcwellCtrmkaktTKmY=
+		SLdm7lFn0fPNKsXAMlRPAO4MHW0=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		pei9Rx0gfxsIKlh39ay3PVfGM/Y=
+		x4PPBWQnlmC+U/37UpKJVL8YmGE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UzOixh5a0NH32irg40ur2jykDZlg7WqqwD3zTEd450g=
+			MneB1l2/ZIQtCqP9dY86uWmOnYlamBIRk1w2eepqO24=
 			</data>
 		</dict>
 		<key>Headers/GokwikUpi.h</key>
@@ -214,14 +214,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XlGNR9AgM1jM9ZEHIvanZT06hf1HGhMA8V78xDLv3Tw=
+			1ITKCfYGvZU++JsSYUz0EAhxQmvNomMz5dhgkhX3qes=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GSDqbSHZAfqN4SWxjOVAXKnfcpBuO5c8XQxK9P5N0dM=
+			byU1qtzzjHh3BSZPg4Z661Ui97VA5OrHuucSX2qA3jk=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
@@ -235,14 +235,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XlGNR9AgM1jM9ZEHIvanZT06hf1HGhMA8V78xDLv3Tw=
+			1ITKCfYGvZU++JsSYUz0EAhxQmvNomMz5dhgkhX3qes=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GSDqbSHZAfqN4SWxjOVAXKnfcpBuO5c8XQxK9P5N0dM=
+			byU1qtzzjHh3BSZPg4Z661Ui97VA5OrHuucSX2qA3jk=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -256,14 +256,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AI4uB/snWTQpC+pngb6+0D4xBEsPByA3P3pI94nwFTA=
+			mXoGgm+he6iAz5Chg096MmV9GViCLphGHTyxBF5Mk94=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bcn06kMLLYnA7X9tPEgYl7Pshi2sncuS8JeMVRt3g9M=
+			+fQ4tx18D/lmRaMJBnjcuew3oGDz08NpACtuJuk3BYQ=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftdoc</key>
@@ -277,14 +277,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AI4uB/snWTQpC+pngb6+0D4xBEsPByA3P3pI94nwFTA=
+			mXoGgm+he6iAz5Chg096MmV9GViCLphGHTyxBF5Mk94=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bcn06kMLLYnA7X9tPEgYl7Pshi2sncuS8JeMVRt3g9M=
+			+fQ4tx18D/lmRaMJBnjcuew3oGDz08NpACtuJuk3BYQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/GokwikUpi-Swift.h</key>
 		<data>
-		mvJx29Akdkngvz/SuSOYE1d8HTM=
+		coD131MHgdLzP3B8AMk/tk4ShaE=
 		</data>
 		<key>Headers/GokwikUpi.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		qCvcEwbmm+uvtN7PhYsIoaDSCcE=
+		NnRu8j8BuvOBIzIJ8JbRNp8kHgE=
 		</data>
 		<key>Metropolis-Black.otf</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Ks0FZ/kCA/vaM65wQTSK5j+tVVM=
+		WXo1oG5pei3nvQTiwkfYPz10TcA=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Ztts/FMOG/epvFwBgvVdyyUTFsc=
+		zR3zKLHL/A5JvxVMoBx3i2wlKj0=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		Ks0FZ/kCA/vaM65wQTSK5j+tVVM=
+		WXo1oG5pei3nvQTiwkfYPz10TcA=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Ztts/FMOG/epvFwBgvVdyyUTFsc=
+		zR3zKLHL/A5JvxVMoBx3i2wlKj0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UnUGQkvz+qH3CAeazHfKgTriE97HGBTbjhHxH7nlQ2w=
+			UEYuF69sgB0SzqJlaDUFQLSn5qk25xF1V66vAbOw9AU=
 			</data>
 		</dict>
 		<key>Headers/GokwikUpi.h</key>
@@ -190,14 +190,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tX5erXF4vk09QUhdJ/BpuRqd1FWcvQguHnf/A4CvWtg=
+			dAx0yLQdB0emzUHAMjSZ5SIkXs5iOsMymiAukWrhUIk=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			noVXVXOtAsVLJe0Bzy4NWxzT0VjUGTtmCIUsY4AOPhM=
+			+g0uWvcpr5q2l1WpY7L4nqRFwcI83feJ+nJJYgZMLIs=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
@@ -211,14 +211,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tX5erXF4vk09QUhdJ/BpuRqd1FWcvQguHnf/A4CvWtg=
+			dAx0yLQdB0emzUHAMjSZ5SIkXs5iOsMymiAukWrhUIk=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			noVXVXOtAsVLJe0Bzy4NWxzT0VjUGTtmCIUsY4AOPhM=
+			+g0uWvcpr5q2l1WpY7L4nqRFwcI83feJ+nJJYgZMLIs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
