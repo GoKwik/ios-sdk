@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		zVLfhz8SsaZvWRvrBN+D0mhsEqI=
+		ewHcraKVW5Jw6oc45yGHxGNiQ7E=
 		</data>
 		<key>CustomeCheckout.nib</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Headers/GokwikUpi-Swift.h</key>
 		<data>
-		gwCryuhaYyRUKILwoB1JZ0p3pSA=
+		m5KCx1zXrbNgm8JUgGFODHitU9o=
 		</data>
 		<key>Headers/GokwikUpi.h</key>
 		<data>
-		Z++dETsoQ+LuqwNYWxjKYJS+SAU=
+		KUkxlO3XQV8HPcwwzJZlHRguF1k=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yssqGMwoWaHwlhyOxq6qkcFE8o0=
+		GEcjJXUSlnQz4rSV+RFivFUrlkc=
 		</data>
 		<key>Metropolis-Black.otf</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IPqI3iKLCmqdWwQt1pcJhx83yXo=
+		A4y4P9tflu/SAWrJMOdiCHg4DI8=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dpQTdh6OuhypGt7zCzPkszdOSmw=
+		f8lA+d+yi/O0SHOo82dORWUatYM=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		IPqI3iKLCmqdWwQt1pcJhx83yXo=
+		A4y4P9tflu/SAWrJMOdiCHg4DI8=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		dpQTdh6OuhypGt7zCzPkszdOSmw=
+		f8lA+d+yi/O0SHOo82dORWUatYM=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		SLdm7lFn0fPNKsXAMlRPAO4MHW0=
+		LTtOefmBvtcwellCtrmkaktTKmY=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		x4PPBWQnlmC+U/37UpKJVL8YmGE=
+		pei9Rx0gfxsIKlh39ay3PVfGM/Y=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -98,11 +98,11 @@
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		SLdm7lFn0fPNKsXAMlRPAO4MHW0=
+		LTtOefmBvtcwellCtrmkaktTKmY=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		x4PPBWQnlmC+U/37UpKJVL8YmGE=
+		pei9Rx0gfxsIKlh39ay3PVfGM/Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AkfacFu50Hk0MXiTFPG8vTFX8kKbjfqbVxA7U6Jbw7g=
+			qWE1TRLrbJCQcQdRy/cxVOZHXf49J4+zf7Kn78Ciy+E=
 			</data>
 		</dict>
 		<key>CustomeCheckout.nib</key>
@@ -144,14 +144,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MneB1l2/ZIQtCqP9dY86uWmOnYlamBIRk1w2eepqO24=
+			UzOixh5a0NH32irg40ur2jykDZlg7WqqwD3zTEd450g=
 			</data>
 		</dict>
 		<key>Headers/GokwikUpi.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TXKiVy4iSqm5RZLSpFtlygTjIYWo1NhkFXUbMmYZBvE=
+			wFZsYWjCmnrDxK3dZTQM73SlySAP13B2zX2in0dt6EI=
 			</data>
 		</dict>
 		<key>Metropolis-Black.otf</key>
@@ -214,14 +214,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1ITKCfYGvZU++JsSYUz0EAhxQmvNomMz5dhgkhX3qes=
+			XlGNR9AgM1jM9ZEHIvanZT06hf1HGhMA8V78xDLv3Tw=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			byU1qtzzjHh3BSZPg4Z661Ui97VA5OrHuucSX2qA3jk=
+			GSDqbSHZAfqN4SWxjOVAXKnfcpBuO5c8XQxK9P5N0dM=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
@@ -235,14 +235,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1ITKCfYGvZU++JsSYUz0EAhxQmvNomMz5dhgkhX3qes=
+			XlGNR9AgM1jM9ZEHIvanZT06hf1HGhMA8V78xDLv3Tw=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			byU1qtzzjHh3BSZPg4Z661Ui97VA5OrHuucSX2qA3jk=
+			GSDqbSHZAfqN4SWxjOVAXKnfcpBuO5c8XQxK9P5N0dM=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -256,14 +256,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mXoGgm+he6iAz5Chg096MmV9GViCLphGHTyxBF5Mk94=
+			AI4uB/snWTQpC+pngb6+0D4xBEsPByA3P3pI94nwFTA=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+fQ4tx18D/lmRaMJBnjcuew3oGDz08NpACtuJuk3BYQ=
+			Bcn06kMLLYnA7X9tPEgYl7Pshi2sncuS8JeMVRt3g9M=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftdoc</key>
@@ -277,14 +277,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mXoGgm+he6iAz5Chg096MmV9GViCLphGHTyxBF5Mk94=
+			AI4uB/snWTQpC+pngb6+0D4xBEsPByA3P3pI94nwFTA=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+fQ4tx18D/lmRaMJBnjcuew3oGDz08NpACtuJuk3BYQ=
+			Bcn06kMLLYnA7X9tPEgYl7Pshi2sncuS8JeMVRt3g9M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

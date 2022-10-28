@@ -7,7 +7,6 @@
 
 #import <Foundation/Foundation.h>
 
-
 //! Project version number for GokwikUpi.
 FOUNDATION_EXPORT double GokwikUpiVersionNumber;
 
