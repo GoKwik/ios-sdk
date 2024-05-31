@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = "11.0"
 
   spec.source       = { :git => "https://github.com/GoKwik/ios-sdk.git", :tag => spec.version.to_s }
-  spec.vendored_frameworks = 'Pod/GokwikUPI.xcframework'
+  spec.vendored_frameworks = 'Pod/GokwikUpi.xcframework'
   spec.exclude_files = "Classes/Exclude"
 
 
