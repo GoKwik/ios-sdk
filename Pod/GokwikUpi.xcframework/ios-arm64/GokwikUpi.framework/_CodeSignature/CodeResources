@@ -6,19 +6,19 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ewHcraKVW5Jw6oc45yGHxGNiQ7E=
+		+tkpQl8c1ys6i6Fed3qpRk+MyDw=
 		</data>
 		<key>CustomeCheckout.nib</key>
 		<data>
-		8aOeejcdC0l1TXWomRunhpbkDU8=
+		FMfFIwJ8XBseYCaG3+Kl4TAMFdY=
 		</data>
 		<key>GokwikCheckoutViewController.nib</key>
 		<data>
-		PTSXY39gsclNvAo+Hdhy2PdcYn4=
+		Mv1EsHDG7bW56v1fEBrmP0VCVsk=
 		</data>
 		<key>Headers/GokwikUpi-Swift.h</key>
 		<data>
-		mvJx29Akdkngvz/SuSOYE1d8HTM=
+		dRHKq42xu75a6/VZAxNpu31mMn8=
 		</data>
 		<key>Headers/GokwikUpi.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Y7l0xTUnseMY//GsWFrykz+UESU=
+		/e2A8RT5lp1JQGa0ZPuUTzyK+WE=
 		</data>
 		<key>Metropolis-Black.otf</key>
 		<data>
@@ -56,41 +56,37 @@
 		<data>
 		N/KnsDasVBARyxdcUZcFaugU2Y8=
 		</data>
+		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		nIx4/EO6i+doyD53KUK/4LopaHc=
+		</data>
+		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		pXyHpfjjIVhF4vDUfolt7vzrz58=
+		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		ibxjLJpf/58VM0aFFpGtU3ya/+Y=
+		Hc1/dFisCzDnt21cxOXTjw6m1hg=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Ks0FZ/kCA/vaM65wQTSK5j+tVVM=
+		pXyHpfjjIVhF4vDUfolt7vzrz58=
 		</data>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Ztts/FMOG/epvFwBgvVdyyUTFsc=
-		</data>
-		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		ibxjLJpf/58VM0aFFpGtU3ya/+Y=
-		</data>
-		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		Ks0FZ/kCA/vaM65wQTSK5j+tVVM=
-		</data>
-		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		Ztts/FMOG/epvFwBgvVdyyUTFsc=
+		ppS2bfdaHCNrkSGCHfWYyOUuMq8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		eBaSQ3UuwL1tvAyITEsCzifqCFY=
+		rsibZNYtrjyshzgfPQhQexg6bjw=
 		</data>
 		<key>PaymentOptionView.nib</key>
 		<data>
-		3dco+VO/EiFNMGibpVCX9VlXZOw=
+		OBQOcRqCrB/rebwnKJTwOjjkUms=
 		</data>
 		<key>VerifyOTPViewController.nib</key>
 		<data>
-		O/l1kpkQHM9lVEA1bQ51RUDDAPY=
+		0MXUBBWo7Tsp27o6+3RlLuLClFs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -99,28 +95,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qWE1TRLrbJCQcQdRy/cxVOZHXf49J4+zf7Kn78Ciy+E=
+			8gVSrk80BqvpQ1L+gk19yoaoZkEJ6UUMTVHJJnmpI+0=
 			</data>
 		</dict>
 		<key>CustomeCheckout.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dhReWJTxKxv+GO8PXMzBeUwz8Ndi3Rmc63M0PK8SOU8=
+			FJdqh4m2P68S0HwrbEmtUcX6xgSkZy1YNeOTAMRFPZE=
 			</data>
 		</dict>
 		<key>GokwikCheckoutViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QejQ9hAbtXZCclqW9CtuMEsNvZhcsd91mjhgvNmpUKk=
+			o9CcTyFBNBTreuBnkHMcNlYguuDfiJ/HPxhTzUBerFg=
 			</data>
 		</dict>
 		<key>Headers/GokwikUpi-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UnUGQkvz+qH3CAeazHfKgTriE97HGBTbjhHxH7nlQ2w=
+			cYBHnK4I7ec43iyT4R1nQ3T3bxIikHNTpk8JP1759VQ=
 			</data>
 		</dict>
 		<key>Headers/GokwikUpi.h</key>
@@ -179,67 +175,60 @@
 			g+YoJkl0uar2cHdXC8kVKDoDw3Iq1ptID2RfpJYT8Ts=
 			</data>
 		</dict>
+		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZIaltP3W8YnJ6A8ruKjSFzjobWdXCIXmQL0HLPwf5dk=
+			</data>
+		</dict>
+		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MxgAc9bv8RRQl6xj9Q9s6rGLHRGyc0Kyj2uF2ms5GpQ=
+			</data>
+		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K+Mqw+cOFznvZejHhRPs9IvYTrI9MSDwA1imAhLXbiE=
+			MFfiifjGsEx0tj7oZIC0Pxo7+eYj4AtOViLCQKxGXL0=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tX5erXF4vk09QUhdJ/BpuRqd1FWcvQguHnf/A4CvWtg=
+			MxgAc9bv8RRQl6xj9Q9s6rGLHRGyc0Kyj2uF2ms5GpQ=
 			</data>
 		</dict>
 		<key>Modules/GokwikUpi.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			noVXVXOtAsVLJe0Bzy4NWxzT0VjUGTtmCIUsY4AOPhM=
-			</data>
-		</dict>
-		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			K+Mqw+cOFznvZejHhRPs9IvYTrI9MSDwA1imAhLXbiE=
-			</data>
-		</dict>
-		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tX5erXF4vk09QUhdJ/BpuRqd1FWcvQguHnf/A4CvWtg=
-			</data>
-		</dict>
-		<key>Modules/GokwikUpi.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			noVXVXOtAsVLJe0Bzy4NWxzT0VjUGTtmCIUsY4AOPhM=
+			b7HmEtUgUnawYLGZuP6FFJ3KbtSeoNZQlFk8qvpV4NU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y2BYJIqU7WPO6bfTmi0idztUk6zpy1c1cxhh4q8X9Qw=
+			VAonZpEfM2p9lrfsyR/dprpOFy0QYjSt3l87vE8Xgwg=
 			</data>
 		</dict>
 		<key>PaymentOptionView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g5l9OwQ06zdyRQiWyZP6b9m7ixKQxXKlL//7fGROcJk=
+			/2an/IQf3NvVRbU3WFbtD0SLUaFJ0Yep/iTFlwhk3dk=
 			</data>
 		</dict>
 		<key>VerifyOTPViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tF9OCGDhLTo7D/cUmJR5ebQLD6mpsgWQjhljk723mFs=
+			6fKR5XR9sbIcbTMSHCxD3K9Nv80EKMDbvoOpywoKxho=
 			</data>
 		</dict>
 	</dict>
